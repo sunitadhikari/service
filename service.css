@@ -118,7 +118,7 @@
 .page-thre{
     position: relative;
     width: 100%;
-    height: 1700px;
+    height: 3000px;
     border-radius: 0px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -198,3 +198,17 @@
     font-size: 25px;
     line-height: 36px; 
 }
+.hew{
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    left: 10px;
+    top: 300px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 20px;
+    color: #0a0b0b;
+    /* text-align: center; */
+} 
