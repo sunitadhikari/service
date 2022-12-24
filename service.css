@@ -63,8 +63,6 @@
     font-size: 58px;
     text-align: center;
     color: #0c0c0c;
-    /* border: 1px solid black; */
-    /* background-color: rgb(254, 252, 252); */
 } 
 .pho{
     position: absolute;
@@ -75,8 +73,6 @@
     background: url("daily.webp");
     filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.5));
     border-radius: 40px 10px;
-    /* background-color: aqua; */
-    /* align-items: center; */
     background-size: cover;
 }
 #myButtn{
