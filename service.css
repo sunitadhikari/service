@@ -79,3 +79,16 @@
     /* align-items: center; */
     background-size: cover;
 }
+.servp{
+    position: absolute;
+    width: 705px;
+    height: 128px;
+    left: 802px;
+    top: 1226px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #3A5668;
+}
