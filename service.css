@@ -202,13 +202,26 @@
     position: absolute;
     width: 100%;
     height: 40px;
-    /* left: 10px; */
-    top: 300px;
+    /* left: 100px; */
+    top: 1500px;
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
     line-height: 20px;
-    color: #090a0a;
+    color: #0a0b0b;
     text-align: center;
+    /* word-spacing: 3px; */
 } 
+.listss{
+    position: absolute;
+    width: 1000px;
+    height: 227px;
+    left: 450px;
+    top: 1800px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;   
+}
