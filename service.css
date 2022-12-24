@@ -103,3 +103,15 @@
     line-height: 36px;
     color: #0d0e0e;
 }
+.listt{
+    position: absolute;
+    width: 850px;
+    height: 227px;
+    left: 512px;
+    top: 900px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+}
