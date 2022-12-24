@@ -202,13 +202,13 @@
     position: absolute;
     width: 100%;
     height: 40px;
-    left: 10px;
+    /* left: 10px; */
     top: 300px;
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
     line-height: 20px;
-    color: #0a0b0b;
-    /* text-align: center; */
+    color: #090a0a;
+    text-align: center;
 } 
