@@ -199,7 +199,7 @@
     width: 100%;
     height: 40px;
     /* left: 100px; */
-    top: 1500px;
+    top: 1400px;
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 600;
@@ -209,12 +209,12 @@
     text-align: center;
     /* word-spacing: 3px; */
 } 
-.listss{
+.listtss{
     position: absolute;
     width: 1000px;
     height: 227px;
     left: 450px;
-    top: 1800px;
+    top: 1500px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
